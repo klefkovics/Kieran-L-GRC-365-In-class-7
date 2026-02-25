@@ -1,11 +1,60 @@
-/*Add your CSS here*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, Arial, sans-serif;
+  color: darkslateblue;
+}
 
+h1 {
+  font-size: 600%;
+}
 
+h2 {
+  color: firebrick;
+}
 
+img {
+  width: 100%;
+  height: auto;
+}
 
+.caption {
+  color: chocolate;
+  font-size: small;
+}
 
+a:link {
+  color: darkcyan;
+}
 
+a:visited {
+  color: crimson;
+}
 
+a:hover {
+  color: darkblue;
+}
+
+a:active {
+  color: chartreuse;
+}
+
+footer a:hover {
+text-decoration: none;
+}
+
+figure {
+  text-align: center;
+}
+
+h2 em {
+  color: teal;
+}
+
+p {
+  text-align: center;
+}
 
 
 /*No touch*/
